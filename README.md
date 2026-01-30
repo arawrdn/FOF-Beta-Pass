@@ -1,3 +1,7 @@
+![Built on Base](https://img.shields.io/badge/Built%20on%20Base-blue?logo=coinbase)
+![Base Ecosystem Project](https://img.shields.io/badge/Base%20Ecosystem%20Project-0052ff?logo=coinbase)
+![Base Verified Contract](https://img.shields.io/badge/Base%20Verified%20Contract-0f67ff?logo=coinbase)
+
 # GM Builders - FOF Beta Pass NFT
 
 The GM Builders NFT is a limited edition utility asset (Max Supply: 666) on the Base Network. It functions as the primary "Gatekeeper" NFT for the Fairly Odd Fellas (FOF) ecosystem.
